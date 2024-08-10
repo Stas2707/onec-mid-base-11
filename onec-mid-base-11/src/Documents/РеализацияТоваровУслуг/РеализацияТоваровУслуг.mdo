@@ -212,7 +212,7 @@
     <name>Д_КонтактноеЛицо</name>
     <synonym>
       <key>ru</key>
-      <value>Д контактное лицо</value>
+      <value>Контактное лицо</value>
     </synonym>
     <comment>Добавлено 10.08.24 Бобренок С.В. в рамках реализации задачи Заказчика</comment>
     <type>
