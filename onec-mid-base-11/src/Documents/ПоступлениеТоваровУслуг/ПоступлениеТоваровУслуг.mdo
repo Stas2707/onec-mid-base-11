@@ -152,6 +152,22 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="37b64abe-0525-4af8-b8d4-8913379a9f44">
+    <name>Д_КонтактноеЛицо</name>
+    <synonym>
+      <key>ru</key>
+      <value>Д контактное лицо</value>
+    </synonym>
+    <comment>Добавлено 10.08.24 Бобренок С.В. в рамках реализации задачи Заказчика</comment>
+    <type>
+      <types>CatalogRef.Д_КонтактныеЛица</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <forms uuid="934b763d-04d8-4059-a85c-e4cbfd3acd29">
     <name>ФормаДокумента</name>
     <synonym>
