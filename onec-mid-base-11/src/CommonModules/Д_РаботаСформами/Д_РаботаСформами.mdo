@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="05b8fd6e-0a92-4025-9650-aae7f792c6af">
+  <name>Д_РаботаСформами</name>
+  <synonym>
+    <key>ru</key>
+    <value>Д работа сформами</value>
+  </synonym>
+  <comment>Добавлено 10.08.24 Бобренок С.В. в рамках реализации задачи Заказчика</comment>
+  <server>true</server>
+</mdclass:CommonModule>
