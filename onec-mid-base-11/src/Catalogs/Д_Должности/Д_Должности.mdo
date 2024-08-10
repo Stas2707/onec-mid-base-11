@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="96fa5b33-fcd2-4e66-9d7e-21372d4a0fbf">
+  <producedTypes>
+    <objectType typeId="c02af34c-9f6f-4839-9dba-aff2e6466ee5" valueTypeId="88ef5aeb-8248-4b3a-a13e-671cf519d410"/>
+    <refType typeId="3ecc2001-b3bc-42e2-ac58-22463b23b9a4" valueTypeId="d8a78f16-7584-4d2c-a5cc-6f151781d319"/>
+    <selectionType typeId="a8ae86ff-ad81-4d4c-9f30-0251945a8157" valueTypeId="68561f62-06ad-4900-9a35-41c3e703308a"/>
+    <listType typeId="6bdd1088-1651-436c-82e9-0c41c7fe9514" valueTypeId="45f4d5e5-5554-460b-852e-fd016d8c3632"/>
+    <managerType typeId="bfefe562-0bba-44ec-adb9-bb717eb1c6e2" valueTypeId="63326d25-fef9-436d-8dfa-1bff61ca09f3"/>
+  </producedTypes>
+  <name>Д_Должности</name>
+  <synonym>
+    <key>ru</key>
+    <value>Должности</value>
+  </synonym>
+  <comment>Добавлено 10.08.24 Бобренок С.В. в рамках реализации задачи Заказчика</comment>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Д_Должности.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Д_Должности.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Должность</value>
+  </objectPresentation>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
